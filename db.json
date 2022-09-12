@@ -7,70 +7,16 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 1000,
+      "cost": 500,
       "services": [
-        {
-          "name": "Meu novo serviço",
-          "cost": "100",
-          "description": "Fiz isso aqui",
-          "id": "fe8c3e89-d5bc-43cb-a1e8-b912f6934714"
-        },
-        {
-          "name": "Meu novo serviço 2",
-          "cost": "100",
-          "description": "Fiz isso aqui",
-          "id": "9244c41d-d98a-4e12-a084-60fe04e782fd"
-        },
         {
           "name": "projeto teste",
           "cost": "500",
           "description": "dsadasdqdasd",
           "id": "564113cd-325f-4519-931a-c291ce219584"
-        },
-        {
-          "name": "projeto teste 4",
-          "cost": "300",
-          "description": "dsadasdqdasd",
-          "id": "5e81846e-f9d1-4f02-b993-b3efd9c9b775"
         }
       ],
       "id": 2
-    },
-    {
-      "name": "Novo Projeto",
-      "budget": "900",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 900,
-      "services": [
-        {
-          "name": "Contratar Dev Python",
-          "cost": "600",
-          "description": "Vai criar função de envio de e-mails",
-          "id": "a6966832-5c41-4d6f-adaa-422b7790e5bb"
-        },
-        {
-          "name": "Novo serviço",
-          "cost": "100",
-          "description": "Testando",
-          "id": "a217eb90-cc53-4d79-a8bd-06b5d43c6281"
-        },
-        {
-          "name": "Novo serviço",
-          "cost": "100",
-          "description": "Testando",
-          "id": "a217eb90-cc53-4d79-a8bd-06b5d43c6281"
-        },
-        {
-          "name": "Novo serviço",
-          "cost": "100",
-          "description": "Testando",
-          "id": "a217eb90-cc53-4d79-a8bd-06b5d43c6281"
-        }
-      ],
-      "id": 3
     }
   ],
   "categories": [
